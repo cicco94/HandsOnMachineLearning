@@ -23,5 +23,16 @@ You will need jupyter in the most of case
 ### Sentiment Analysis
 - Sentiment Analysis for movie-reviews: `nltkSentimentAnalysis.ipynb` or basic-python version at `nltkSentimentAnalysis.py`
 
+### Prediction/Classification with Orange Data Mining
+- Red wine quality prediction/classification: `wine_quality.ows`
+  - dataset: `data/winequality-red.csv`
+  - 3 <= qualities <= 8
+    
+![](./img/tree.png) 
+
+![](./img/confusionMatrix.PNG) 
+
+![](./img/pipeline.PNG) 
+
 #### Author
 ciccottandrea@gmail.com
