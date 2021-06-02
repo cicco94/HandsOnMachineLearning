@@ -37,7 +37,7 @@ You will need jupyter in the most of case
 ### Binary Classification with Neura Networks in TensorFlow
 - `BinaryClassificationNeura NetworksTensorFlow.ipynb`
 
-![](./img/BinaryClassificationNeuralNetworksTensorFlow.png) 
+![](./img/BinaryClassificationNeuralNetworksTensorFlow.PNG) 
 
 #### Author
 ciccottandrea@gmail.com
