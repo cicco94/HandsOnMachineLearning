@@ -35,7 +35,7 @@ You will need jupyter in the most of case
 ![](./img/pipeline.PNG) 
 
 ### Binary Classification with Neura Networks in TensorFlow
-- `BinaryClassificationNeura NetworksTensorFlow.ipynb`
+- `BinaryClassificationNeuralNetworksTensorFlow.ipynb`
 
 ![](./img/BinaryClassificationNeuralNetworksTensorFlow.PNG) 
 
