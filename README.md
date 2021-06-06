@@ -34,10 +34,12 @@ You will need jupyter in the most of case
 
 ![](./img/pipeline.PNG) 
 
-### Binary Classification with Neura Networks in TensorFlow
+### Classification with Neura Networks in TensorFlow
 - `BinaryClassificationNeuralNetworksTensorFlow.ipynb`
 
 ![](./img/BinaryClassificationNeuralNetworksTensorFlow.PNG) 
+
+- `MultiClassClassificationNeuralNetworksTensorFlow.ipynb`
 
 #### Author
 ciccottandrea@gmail.com
