@@ -41,5 +41,7 @@ You will need jupyter in the most of case
 
 - `MultiClassClassificationNeuralNetworksTensorFlow.ipynb`
 
+![](./img/confusionMatrixMulticlassNN.PNG) 
+
 #### Author
 ciccottandrea@gmail.com
